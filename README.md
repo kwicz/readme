@@ -21,6 +21,10 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 |:---|:---:|:---:|
 | | |
 | | |
+| | |
+| | |
+| | |
+| | |
 
 ## Setup/Installation Requirements
 
